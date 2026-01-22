@@ -58,12 +58,3 @@ I enjoy building **clean, scalable systems** and products that solve real proble
 I prefer **quality over quantity**.  
 Each repository represents deliberate design choices and continuous improvement.
 
----
-
-## 📫 Get in Touch
-- GitHub: **@ruz**
-- LinkedIn: *(add your link here)*
-
----
-
-⭐ If you find my work useful, feel free to star a repo!
